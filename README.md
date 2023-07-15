@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 , I am Sahu Naman
+
+A final year at Indian Institute of Information Technology , Allahabad. 
+- 🔭 I’m currently working on some mini projects in python and practicing data structures and algorithms regularly.
+- 🌱 I’m currently learning python and web development.
+- :star_struck: I'm also interested in blockchain and machine learning so will explore it soon.
+
+
+<img src="https://github-readme-stats.vercel.app/api/?username=Naman7709&show_icons=true&theme=gotham&count_private=true" alt="github stats"/>
 
 <!--
 **Naman7709/Naman7709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
